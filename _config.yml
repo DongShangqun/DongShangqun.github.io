@@ -153,20 +153,21 @@ analytics:
 # Reading Files
 include:
   - .htaccess
-  - _pages/about.md
-  - _pages/cv.md
-  - _pages/publications.md
-  - _pages/404.md
-  - _pages/archive-layout-with-content.md
-  - _pages/category-archieve.html
-  - _pages/collection-archieve.html
-  - _pages/markdown.md
-  - _pages/non-menu-page.md
-  - _pages/page-archieve.html
-  - _pages/sitemap.md
-  - _pages/tag-archieve.html
-  - _pages/terms.html
-  - _pages/year-archieve.html
+  - _pages
+  # - _pages/about.md
+  # - _pages/cv.md
+  # - _pages/publications.md
+  # - _pages/404.md
+  # - _pages/archive-layout-with-content.md
+  # - _pages/category-archieve.html
+  # - _pages/collection-archieve.html
+  # - _pages/markdown.md
+  # - _pages/non-menu-page.md
+  # - _pages/page-archieve.html
+  # - _pages/sitemap.md
+  # - _pages/tag-archieve.html
+  # - _pages/terms.html
+  # - _pages/year-archieve.html
   - files
 exclude:
   - "*.sublime-project"
