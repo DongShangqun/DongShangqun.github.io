@@ -22,13 +22,13 @@ repository               : "DongShangqun/DongShangqun.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shangqun Dong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "RL and multi-agent related"
+  location         : "P.R. China"
+  employer         : "Xi'an Jiaotong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dongshangqun@foxmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
