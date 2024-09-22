@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 I'm a Ph.D. cadidate of artificial intelligence of [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) from 2022, supervised by [Prof. Meiqin Liu](http://www.aiar.xjtu.edu.cn/info/1046/1942.htm). Previsouly, I obtain my master's and bachelor's degree from University of Chinese Academy of Sciences at 2022 and Northwestern Polytechnical University at 2019.
+
 My research interests lie in reinforcement learning, Multi-agent system, robot, etc.
+
 Welcome to contact me for any discussion and collaboration!
 
 Publications
