@@ -15,7 +15,7 @@ Welcome to contact me for any discussion and collaboration!
 
 Publications
 ======
-* for corresponding author
+\* for corresponding author
 1. [Hierarchical Heterogeneous Multi-Agent Cross-Domain Search Method Based on Deep Reinforcement Learning](https://doi.org/10.1109/TITS.2024.3417698)
    - Shangqun Dong; Meiqin Liu*; Shanling Dong; Ronghao Zheng; Ping Wei
    - 04 July 2024
